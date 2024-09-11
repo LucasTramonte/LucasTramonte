@@ -2,7 +2,7 @@
 
 ## Regarding my background:
 
-- ⌨️ I have experience with Python, SQL, Power BI and Excel.
+- ⌨️ I have experience with Python, SQL, C/C++, Power BI and Excel.
 - 🎲 I have been working with Data Science / Machine Learning since 2022
 - 👔 I've worked in some companies such as Eldorado and FlexSim.
 - 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
