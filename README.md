@@ -7,7 +7,7 @@
 - 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
 - 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
 
-## Language and Tools
+## 🛠️ Language and Tools
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="20"/> Python
 - <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL logo" width="20"/> SQL
