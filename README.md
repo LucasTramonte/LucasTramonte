@@ -12,6 +12,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="20"/> Python
 - <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL logo" width="20"/> SQL
 - <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit logo" width="20"/> Streamlit
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git logo" width="20"/> Git
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI logo" width="20"/> Power BI
 - <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn logo" width="20"/> Scikit-learn
 - <img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="Pandas logo" width="20"/> Pandas
