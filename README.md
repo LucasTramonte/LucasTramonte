@@ -1,12 +1,5 @@
 # Hi there! Welcome to my repository! 👋
 
-## Regarding my background:
-
-- 🎲 I have been working with Data Science / Machine Learning since 2022
-- 👔 I've worked in some companies such as Eldorado and FlexSim.
-- 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
-- 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; display: inline-block;">
     <!-- GitHub profile card -->
@@ -17,9 +10,16 @@
   </div>
 </div>
 
+## Regarding my background:
+
+- 🎲 I have been working with Data Science / Machine Learning since 2022
+- 👔 I've worked in some companies such as Eldorado and FlexSim.
+- 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
+- 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
+
 ## 🛠️ Language and Tools
 <!-- Made with https://dev.to/envoy_/150-badges-for-github-pnk#cloud and https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![Numpy](https://camo.githubusercontent.com/b5a316a445d392b6f33cf315ebae56acecb547a7ac3a62c6931eb81ddbc813c6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.png)  ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white) ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![CPlusPlus](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.png)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![CPlusPlus](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
 
 ## 🌎 Connect with me
 
