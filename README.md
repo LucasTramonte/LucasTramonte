@@ -16,6 +16,7 @@
 - 👔 I've worked in some companies such as Eldorado and FlexSim.
 - 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
 - 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
+- 📁 Check out my [portfolio ](https://lucastramonte.github.io/)
 
 ## 🛠️ Language and Tools
 <!-- Made with https://dev.to/envoy_/150-badges-for-github-pnk#cloud and https://github.com/alexandresanlim/Badges4-README.md-Profile -->
