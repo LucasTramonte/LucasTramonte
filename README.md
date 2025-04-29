@@ -13,7 +13,7 @@
 ## Regarding my background:
 
 - 🎲 I have been working with Data Science / Machine Learning since 2022
-- 👔 I've worked in some companies such as Eldorado and FlexSim.
+- 👔 I've worked in some companies such as Amazon, Eldorado and FlexSim.
 - 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
 - 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
 - 📁 Check out my [portfolio ](https://lucastramonte.github.io/)
