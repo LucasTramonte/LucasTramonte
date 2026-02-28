@@ -1,21 +1,18 @@
 # Hi there! Welcome to my repository! 👋
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; display: inline-block;">
-    <!-- GitHub profile card -->
-    <a href="https://github.com/LucasTramonte">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasTramonte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
-      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTramonte&layout=compact&langs_count=16&theme=tokyonight"/>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/LucasTramonte">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasTramonte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTramonte&layout=compact&langs_count=16&theme=tokyonight" />
+  </a>
+</p>
 
 ## Regarding my background:
 
 - 🎲 I have been working with Data Science / Machine Learning since 2022
 - 👔 I've worked in some companies such as Amazon, Eldorado and FlexSim.
-- 📚 I studied Industrial Engineering at State University of Campinas (Unicamp), Brazil
-- 🌱 I'm currently studying Artificial Intelligence at CentraleSupélec, France
+- 📚 I studied Artificial Intelligence at CentraleSupélec in France and Industrial Engineering at State University of Campinas (Unicamp), Brazil
+- 🌱 I'm currently working as a Machine Learning Engineer at Aprix, Brazil
 - 📁 Check out my [portfolio ](https://lucastramonte.github.io/)
 
 ## 🛠️ Language and Tools
