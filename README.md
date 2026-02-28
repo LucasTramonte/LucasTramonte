@@ -1,10 +1,10 @@
 # Hi there! Welcome to my repository! 👋
 
 <p align="center">
-  <a href="https://github.com/LucasTramonte">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasTramonte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTramonte&layout=compact&langs_count=16&theme=tokyonight" />
-  </a>
+	<a href="https://github.com/LucasTramonte">
+		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasTramonte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="LucasTramonte GitHub stats" />
+		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTramonte&layout=compact&langs_count=16&theme=tokyonight" alt="Most used languages" />
+	</a>
 </p>
 
 ## Regarding my background:
