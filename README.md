@@ -2,8 +2,10 @@
 
 <p align="center">
 	<a href="https://github.com/LucasTramonte">
-		<img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucasTramonte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="LucasTramonte GitHub stats" />
-		<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTramonte&layout=compact&langs_count=16&theme=tokyonight" alt="Most used languages" />
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTramonte&theme=tokyonight" alt="LucasTramonte GitHub profile details" />
+		<br/>
+		<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasTramonte&theme=tokyonight" alt="Most commit language" />
+		<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasTramonte&theme=tokyonight" alt="GitHub stats" />
 	</a>
 </p>
 
