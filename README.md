@@ -12,9 +12,9 @@
 ## Regarding my background:
 
 - 🎲 I have been working with Data Science / Machine Learning since 2022
-- 👔 I've worked in some companies such as Amazon, Eldorado and FlexSim.
+- 👔 I've worked in some companies such as Aprix, Amazon, Eldorado and FlexSim.
 - 📚 I studied Artificial Intelligence at CentraleSupélec in France and Industrial Engineering at State University of Campinas (Unicamp), Brazil
-- 🌱 I'm currently working as a Machine Learning Engineer at Aprix, Brazil
+- 🌱 I'm currently working as a Data Scientist at Avahi
 - 📁 Check out my [portfolio ](https://lucastramonte.github.io/)
 
 ## 🛠️ Language and Tools
